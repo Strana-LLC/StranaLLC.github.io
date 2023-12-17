@@ -52,12 +52,10 @@ round-avatar: true
 social-network-links:
   email: "support@thefreshpass.com"
   # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.facebook.com/thefreshpass
-  twitter: https://twitter.com/thefreshpass
-  youtube: https://www.youtube.com/channel/UC4VjgzOE8Y3xBzFZfRMoIhA
-#  medium: yourname
-#  reddit: yourname
- linkedin: https://www.linkedin.com/company/fresh-pass/
+  facebook: thefreshpass
+  twitter: thefreshpass
+  youtube: "@FreshPass"
+  # linkedin: fresh-pass
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
