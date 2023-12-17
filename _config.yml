@@ -20,11 +20,13 @@ author: Fresh Pass Inc.
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://thefreshpass.com"
+  About Fresh Pass: "aboutme"
+  Privacy Policy: "privacy-policy"
+  Terms of Service: "terms-of-service"
+  # Resources:
+  #   - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #   - Learn markdown: "https://www.markdowntutorial.com/"
+  # Author's home: "https://thefreshpass.com"
 
 ################
 # --- Logo --- #
@@ -32,7 +34,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/fp-logo.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
